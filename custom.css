@@ -590,4 +590,7 @@ footer p {
 .social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
 .social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
 .social_footer_ul li i {  width:20px; height:20px; text-align:center;}
->>>>>>> 621baa925761c762263ebe3c7b6a88141ae53277
+
+#mainNav{
+  /*display: none;*/
+}
